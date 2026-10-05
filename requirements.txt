@@ -1,0 +1,8 @@
+tensorflow
+keras
+opensmile
+pandas
+numpy
+scikit-learn
+spacy
+nltk
